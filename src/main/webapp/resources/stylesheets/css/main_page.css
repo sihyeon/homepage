@@ -1,0 +1,34 @@
+@CHARSET "EUC-KR";
+
+/*
+.panel-board{
+	border: 3px solid;
+	border-color: #0080ff;
+	border-radius: 4px 4px 4px 4px;
+}*/
+
+.panel-group-1{
+	margin-top: 20px;
+}
+
+.profile-image{
+	margin: auto;
+	margin-top: 20px;
+	
+	height: 140px;
+	width: 140px;
+}
+.head-container{
+	margin-bottom: 20px;
+}
+
+.navigation-container{
+	padding-right: 0px;
+    padding-left: 0px;
+}
+
+/*
+.navigation{
+	width: 50%;
+}
+*/
